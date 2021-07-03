@@ -1,10 +1,16 @@
 # mac-setup
-Quick script to setup a new mac
 
-```bash
-cd ~/Downloads
-curl -sL https://raw.githubusercontent.com/johnkahn/mac-setup/main/defaults.sh | bash
-curl -O https://raw.githubusercontent.com/johnkahn/mac-setup/main/install.sh
+> Quick scripts to setup a new mac
+
+1. Download the zip
+1. Unzip it
+1. `cd` into the folder
+1. Execute the following commands in `zsh`
+
+```zsh
+chmod +x defaults.sh
+./defaults.zsh
+
 chmod +x install.sh
-./install.sh
+./install.zsh
 ```
