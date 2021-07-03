@@ -16,12 +16,15 @@ casks=(
   insomnia
   iterm2
   loopback
+  natron
   nordvpn
+  proxyman
   quicklook-csv
   quicklook-json
   react-native-debugger
   slack
   visual-studio-code
+  zoom
 )
 
 brews=(
