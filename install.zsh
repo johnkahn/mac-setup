@@ -36,6 +36,7 @@ brews=(
   git
   git-gui
   git-town
+  kubectl
   mas
   terminal-notifier
   thefuck
