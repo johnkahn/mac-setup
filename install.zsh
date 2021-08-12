@@ -10,6 +10,7 @@ casks=(
   discord
   docker
   farrago
+  figma
   fission
   geekbench
   gitify
