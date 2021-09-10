@@ -163,6 +163,7 @@ install 'git config --global' "${git_configs[@]}"
 
 echo "Login to GitHub"
 gh auth login --web
+gh config set editor "code --wait"
 
 echo "Install NVM"
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
