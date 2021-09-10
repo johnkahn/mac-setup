@@ -76,6 +76,7 @@ git_configs=(
   "user.name \"John Kahn\""
   "user.email 7807353+johnkahn@users.noreply.github.com"
   "init.defaultBranch main"
+  "core.editor \"code --wait\""
 )
 
 fonts=(
